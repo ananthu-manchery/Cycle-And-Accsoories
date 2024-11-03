@@ -1,0 +1,66 @@
+/* Orderstatus.css */
+.order-status-container {
+    margin: 20px;
+  }
+  
+  .order-status-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .order-status-table th,
+  .order-status-table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  .order-status-table th {
+    background-color: #f2f2f2;
+  }
+  
+  .btn-ship,
+  .btn-deliver,
+  .btn-cancel,
+  .btn-revert,
+  .btn-details {
+    margin-right: 5px;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  
+  
+  
+  
+  
+  .btn-revert {
+    background-color: #FFC107; /* Yellow */
+    color: black;
+  }
+  
+  .btn-details {
+    background-color: #2196F3; /* Light Blue */
+    color: white;
+  }
+  .cancel-message {
+    color: red;
+    font-weight: bold;
+    margin: 10px 0;
+  }
+  .btn-remove {
+    background-color: #f44336;
+    color: white;
+    padding: 8px 12px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left: 5px;
+  }
+  
+  .btn-remove:hover {
+    background-color: #d32f2f;
+  }
+  
