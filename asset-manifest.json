@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Cycle-And-Accsoories/static/css/main.9063661d.css",
-    "main.js": "/Cycle-And-Accsoories/static/js/main.c12fe908.js",
+    "main.js": "/Cycle-And-Accsoories/static/js/main.4b9e1442.js",
     "static/js/453.d855a71b.chunk.js": "/Cycle-And-Accsoories/static/js/453.d855a71b.chunk.js",
     "static/media/cycle1.jpg": "/Cycle-And-Accsoories/static/media/cycle1.e6bc5add113f552b02be.jpg",
     "static/media/medium.png": "/Cycle-And-Accsoories/static/media/medium.e82dac976cad1767597f.png",
     "index.html": "/Cycle-And-Accsoories/index.html",
     "main.9063661d.css.map": "/Cycle-And-Accsoories/static/css/main.9063661d.css.map",
-    "main.c12fe908.js.map": "/Cycle-And-Accsoories/static/js/main.c12fe908.js.map",
+    "main.4b9e1442.js.map": "/Cycle-And-Accsoories/static/js/main.4b9e1442.js.map",
     "453.d855a71b.chunk.js.map": "/Cycle-And-Accsoories/static/js/453.d855a71b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9063661d.css",
-    "static/js/main.c12fe908.js"
+    "static/js/main.4b9e1442.js"
   ]
 }
